@@ -2,6 +2,9 @@
   "Networks": {
     "Scroll Testnet": {
       "USDC": "0x1048009f380Ec88001EC6454dC05E122959aE8EA"
+    },
+    "Arbitrum Goerli": {
+      "USDC": "0xcAb791aA1ad3915822F2BB11fe34545FBFAbD79a"
     }
   }
 }
