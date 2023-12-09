@@ -599,7 +599,7 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
 // File contracts/mocks/MockUSDT.sol
 
 // 
-pragma solidity ^0.8.0;
+pragma solidity ^>=0.8.0;
 contract testUSDC is ERC20, Ownable {
     constructor() ERC20("testUSDC", "tUSDC") {
         _mint(msg.sender, 100000000000 * 10 ** 6);
