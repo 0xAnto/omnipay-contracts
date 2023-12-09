@@ -1,4 +1,6 @@
-This Repo contains the contracts deployed for omnipay
+# OmniPay
+
+> This Repo contains the contracts deployed for omnipay
 
 | Network         | USDC                                       | NFT                                        |
 | --------------- | ------------------------------------------ | ------------------------------------------ |
