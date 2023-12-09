@@ -5,6 +5,9 @@
     },
     "Arbitrum Goerli": {
       "USDC": "0xcAb791aA1ad3915822F2BB11fe34545FBFAbD79a"
+    },
+    "Polygon Mumbai": {
+      "USDC": "0xa17168A5e99e6403e5E00508eeB9d210410593F0"
     }
   }
 }
