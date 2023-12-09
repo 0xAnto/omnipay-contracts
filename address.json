@@ -8,6 +8,9 @@
     },
     "Polygon Mumbai": {
       "USDC": "0xa17168A5e99e6403e5E00508eeB9d210410593F0"
+    },
+    "Mantle Testnet": {
+      "USDC": "0x1048009f380Ec88001EC6454dC05E122959aE8EA"
     }
   }
 }
